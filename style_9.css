@@ -1,0 +1,30 @@
+.Text1 {
+
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    font-weight: normal;
+    word-spacing: 60px;
+    padding-bottom: 20px;
+    font-style: italic;
+
+}
+
+.Text2 {
+
+    color: crimson;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.Text3 {
+
+    font-family: Matura MT Script Capitals;
+    font-size: 20px;
+    text-align: right;
+    padding-top: 20px;
+    
+}
